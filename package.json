@@ -1,0 +1,13 @@
+{
+  "name": "HelmetFag",
+  "description": "A helmet faggot",
+  "main": "bot.js",
+  "author": "WesleyxMike",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "*",
+    "request": "2.81.0"
+  }
+}
